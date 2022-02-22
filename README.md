@@ -1,6 +1,8 @@
 # Primeiro Desafio do Projeto Git/GitHub no dia 22/02/22. 
 Repositório criado para o Desafio de Projeto Git/GitHub
 
+Aprendendo a utlizar o GitHub.
+
 ## Links Úteis
 
 [Sintaxe Basica Markdown    /](https://www.markdownguide.org/)
