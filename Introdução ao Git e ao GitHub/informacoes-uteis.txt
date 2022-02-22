@@ -1,0 +1,7 @@
+Informações Adicionais:
+
+O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+Link do Git: https://git-scm.com
+
+Link do GitHub: https://github.com
